@@ -1,5 +1,3 @@
-# da6401_assignment2-partA
-
 # da6401 Assignment 2 – Part A
 
 **Author:** Teja Yelagandula 
