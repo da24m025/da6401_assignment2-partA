@@ -3,7 +3,7 @@
 **Author:** Teja Yelagandula 
 **Institute ID:** DA24M025  
 **GitHub Repository:** https://github.com/da24m025/da6401_assignment2-partA  
-**W&B Report:** 
+**W&B Report:** [ DA6401 Assignment 2 W&B Report](https://wandb.ai/fgbb66579-iit-madras-foundation/inaturalist_cnn_from_scratch3988/reports/Teja-Yelagandula-DA6401-Assignment-2--VmlldzoxMjE0MDAxNw?accessToken=a0qcojswservt8etlc43cdfwh0n5vrtchgehy3btabcth6eirhpcsgdl5l11133k)
 
 ---
 
