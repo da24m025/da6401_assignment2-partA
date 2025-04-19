@@ -8,7 +8,6 @@ from torch.cuda.amp import autocast, GradScaler
 from sklearn.metrics import precision_score, recall_score, f1_score, confusion_matrix
 
 # … your prepare_data, CustomCNN, ResidualBlock, get_activation, generate_filters …
-os.environ["WANDB_API_KEY"] = "e095fbd374bc0fa234acb179a6ec7620b57abf28"
 def get_activation(name):
     return {
         'ReLU': nn.ReLU,
